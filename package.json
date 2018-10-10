@@ -1,13 +1,13 @@
 {
   "name": "nodejs-example-async",
   "version": "0.1.0",
-  "description": "Un exemple de base pour lire un fichier de manière asynchrone dans Node.js.",
+  "description": "Un exemple de base pour lire un fichier de manière asynchrone avec le package async.",
   "main": "readfilejs",
   "scripts": {
     "test": "echo \"Error no test specified\" && exit 1"
   },
   "keywords": [
-    "example",
+    "exemple",
     "asynchrone",
     "nodejs"
   ],
@@ -16,5 +16,10 @@
   "dependencies": {
     "async": "^2.6.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/napthees/nodejs-example-async.git"
+  },
+  "homepage": "https://github.com/napthees/nodejs-example-async#readme"
 }
