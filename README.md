@@ -22,7 +22,6 @@ En ligne de commande :
 
 ## LE PACKAGE ASYNC
 
-[![Build Status via Travis CI](https://travis-ci.org/caolan/async.svg?branch=master)](https://travis-ci.org/caolan/async)
 [![NPM version](https://img.shields.io/npm/v/async.svg)](https://www.npmjs.com/package/async)
 [![Coverage Status](https://coveralls.io/repos/caolan/async/badge.svg?branch=master)](https://coveralls.io/r/caolan/async?branch=master)
 [![libhive - Open source examples](https://www.libhive.com/providers/npm/packages/async/examples/badge.svg)](https://www.libhive.com/providers/npm/packages/async)
