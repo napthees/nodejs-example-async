@@ -2,7 +2,7 @@
   "name": "nodejs-example-async",
   "version": "0.1.0",
   "description": "Un exemple de base pour lire un fichier de manière asynchrone avec le package async.",
-  "main": "readfilejs",
+  "main": "readfile.js",
   "scripts": {
     "test": "echo \"Error no test specified\" && exit 1"
   },
