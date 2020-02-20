@@ -1,4 +1,4 @@
-* _Updated document on October 9, 2018_
+* _Updated document on February 19, 2020_
 
 [![Known Vulnerabilities](https://snyk.io/test/github/napthees/nodejs-example-async/badge.svg?targetFile=package.json)](https://snyk.io/test/github/napthees/nodejs-example-async?targetFile=package.json)
 
