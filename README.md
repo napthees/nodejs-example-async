@@ -1,5 +1,5 @@
 * _Updated document on October 9, 2018_
-
+[![Known Vulnerabilities](https://snyk.io/test/github/napthees/nodejs-example-async/badge.svg?targetFile=package.json)](https://snyk.io/test/github/napthees/nodejs-example-async?targetFile=package.json)
 [![License MIT](https://img.shields.io/badge/license-mit-blue.svg?longCache=true&style=for-the-badge)](https://github.com/napthees/nodejs-example-async/blob/master/LICENSE) [![NPM version](https://img.shields.io/badge/npm%20version%20tested-6.4.1-red.svg?longCache=true&style=for-the-badge)](https://docs.npmjs.com/cli/version)
 [![Node.js version](https://img.shields.io/badge/node%20version%20tested-8.12.0-green.svg?longCache=true&style=for-the-badge)](https://nodejs.org/en/download/releases/)
 
