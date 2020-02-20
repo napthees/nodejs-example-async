@@ -4,8 +4,6 @@
 
 [![License MIT](https://img.shields.io/badge/license-mit-blue.svg?longCache=true&style=for-the-badge)](https://github.com/napthees/nodejs-example-async/blob/master/LICENSE)
 
-[![Node.js version](https://img.shields.io/badge/node%20version%20tested-8.12.0-green.svg?longCache=true&style=for-the-badge)](https://nodejs.org/en/download/releases/)
-
 # Description de l'application "nodejs-example-async"
 
 1. Un exemple de base pour lire un fichier de manière asynchrone avec le package async.
