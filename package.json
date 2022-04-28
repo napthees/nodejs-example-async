@@ -14,7 +14,7 @@
   "author": "contact@napthees.com",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.6.1"
+    "async": "^2.6.4"
   },
   "devDependencies": {},
   "repository": {
